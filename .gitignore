@@ -5,3 +5,4 @@ local.properties
 .DS_Store
 build
 **/google-services.json
+webapp/functions/node_modules/*
